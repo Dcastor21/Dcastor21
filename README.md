@@ -1,4 +1,4 @@
-
+# Darnel Castor 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Artifical+Intelligence;Web+Development+;Cross+Platform+Application+Development;Machine+Learning)](https://git.io/typing-svg)
 
 <!--
