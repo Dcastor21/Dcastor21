@@ -28,9 +28,7 @@
 |                                                  Prepwise: AI-Interviewer                                                  |                                                 AI Policy Copilot                                                  |                                             Homebudget Web App                                              |     |
 | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | --- |
 |        ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)         | ![Project Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Project Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
-|       A job interview preparation platform powered by Vapi AI Voice agents       | RAG-based document Q&A system that ingests PDF policy documents, generates vector embeddings, and returns citation-grounded answers via a REST API in under 3 seconds.
-
-. |
+|       A job interview preparation platform powered by Vapi AI Voice agents       | RAG-based document Q&A system that ingests PDF policy documents, generates vector embeddings, and returns citation-grounded answers via a REST API in under 3 seconds. |
 | [View Code](https://github.com/Dcastor21/mock_interview_prep) • [View Demo](https://mock-interview-prep-three.vercel.app/) |         [View Code](https://github.com/Dcastor21/budget-app) • [View Demo](https://homebdgt.vercel.app/)         |     [View Code](https://github.com/yourusername/third-repo) • [View Demo](https://your-third-demo.com)      |
 
 <h3 align="left"><font size="+2">Connect with me:</font></h3>
