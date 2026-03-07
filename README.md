@@ -23,7 +23,7 @@ Web Development
 ### Database Stack
 
 ### Project Management stack
-###AI/ML Framworks
+### AI/ML Framworks
 
 # Featured Projects
 
