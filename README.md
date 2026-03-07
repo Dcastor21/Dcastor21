@@ -6,9 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Dcastor21" alt="Profile views counter" />
 </p>
 
-<h3 align="left"><font face="Arial">Career:</font></h3>
-- Web Development 
+<h3 align="left"><font face="Arial">Career intrests:</font></h3>
+Web Development 
 · Arttificial Intelligence
+· LLM Applications
 
 <img align="right" height="150" width="150" src="https://i.imgur.com/yK70jqk.gif" />
 
@@ -22,6 +23,7 @@
 ### Database Stack
 
 ### Project Management stack
+###AI/ML Framworks
 
 # Featured Projects
 
