@@ -8,7 +8,7 @@
 
 <h3 align="left"><font face="Arial">Career:</font></h3>
 - Web Development 
-- Arttificial Intelligence
+· Arttificial Intelligence
 
 <img align="right" height="150" width="150" src="https://i.imgur.com/yK70jqk.gif" />
 
