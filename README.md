@@ -37,9 +37,12 @@ Web Development
 
 
 ### AI/ML Framworks
+<p align = "left">
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height= "50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height= "50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height= "50" width="50"/>
+</p>
 
 
 # Featured Projects
