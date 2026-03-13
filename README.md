@@ -18,8 +18,8 @@ Web Development
 <p align ="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height= "50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height= "50" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height= "50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"height= "50" width="50" />
 
 
 
@@ -28,15 +28,26 @@ Web Development
 </p>
 
 ### Database Stack
+<p align = "left" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height= "50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height= "50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height= "50" width="50"/>
 
-### Project Management stack
+
+</p>
+
+
 ### AI/ML Framworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height= "50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height= "50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height= "50" width="50"/>
+
 
 # Featured Projects
 
 |                                                  Prepwise: AI-Interviewer                                                  |                                                 AI Policy Copilot                                                  |                                             Homebudget Web App                                              |     |
 | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | --- |
-|        ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)         | ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vapi.ai](https://img.shields.io/badge/Vapi.ai-5B4FE7?style=for-the-badge&logoColor=white)| ![Project Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
+|        ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vapi.ai](https://img.shields.io/badge/Vapi.ai-5B4FE7?style=for-the-badge&logoColor=white)         | ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Project Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![Project Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 |       A job interview preparation platform powered by Vapi AI Voice agents       | RAG-based document Q&A system that ingests PDF policy documents, generates vector embeddings, and returns citation-grounded answers via a REST API in under 3 seconds. |
 | [View Code](https://github.com/Dcastor21/mock_interview_prep) • [View Demo](https://mock-interview-prep-three.vercel.app/) |         [View Code](https://github.com/Dcastor21/ai_policy_copilot) • [View Demo](https://ai-policy-copilot.vercel.app/)         |     [View Code](https://github.com/Dcastor21/budget-app) • [View Demo](https://homebdgt.vercel.app/)      |
 
