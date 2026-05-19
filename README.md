@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Darnel Castor</font></h1>
-<h3 align="center"><font face="Arial"> I'm a passionate Software Engineer from Atlanta,GA</font></h3>
+<h3 align="center"><font face="Arial"> I'm a passionate AI Engineer from Atlanta,GA</font></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dcastor21" alt="Profile views counter" />
