@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christopher Diaz
+# 👋 Hi, I'm Darnel Castor
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI;Multi-Agent+Systems;RAG+Pipelines+%7C+LLMOps" alt="Typing SVG" />
 </h1>
