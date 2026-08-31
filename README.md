@@ -102,10 +102,11 @@ RAG-powered job application copilot using LangChain, Pinecone, FastAPI, and Next
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><b>In Progress 🛠️</b></p>
-<p align="center"><img src="https://img.shields.io/badge/-MallMind-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square" /></p>
+<p align="center"><b><a href="https://github.com/Dcastor21/Content-Production-Agent">Content Production Agent</a></b></p>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/-DeepSeek-4285F4?style=flat-square" /></p>
 
-*MallMind — retail analytics agent built on Gemini and Fivetran MCP. Submitted to the Google Cloud Rapid Agent Hackathon.*
+a three-agent content pipeline for Fieldstone Media travel posts — a Researcher gathers cited sources, a Writer drafts from that brief, and an Editor fact-checks the draft against it (allowing one revision before escalating to a human editor) — with no step in the code ever auto-publishing.
 
 </td>
 </tr>
