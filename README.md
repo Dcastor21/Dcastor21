@@ -76,37 +76,41 @@ Voice-powered interview prep platform built on Vapi AI voice agents. Simulates r
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><b><a href="https://github.com/Dcastor21/hitl-approval-agent">HITL Approval Agent</a></b></p>
+<p align="center"><b><a href="https://github.com/Dcastor21/hitl-approval-agent"> Multi Agent Healthcare Agent</a></b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-LangGraph-1C1C1C?style=flat-square" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" />
 </p>
 
-Demonstrates Human-in-the-Loop patterns using LangGraph interrupt mechanics with five simulated enterprise action tools. Showcases safe agentic decision-making in production workflows.
+Multi-agent AI system for automated, guardrail-enforced healthcare appointment scheduling
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
+<!--
+  <td width="50%" valign="top">
 <p align="center"><b><a href="https://github.com/Dcastor21/resuemeRAG">résuméRAG</a></b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/-Inngest-7C3AED?style=flat-square" />
 </p>
-
 RAG-powered job application copilot using LangChain, Pinecone, FastAPI, and Next.js. Features multi-provider LLM routing via OpenRouter/Helicone, Inngest workflows, Upstash Redis caching, and LaunchDarkly feature flags.
-
 </td>
+  -->
+
+
+
+
 <td width="50%" valign="top">
 
 <p align="center"><b><a href="https://github.com/Dcastor21/Content-Production-Agent">Content Production Agent</a></b></p>
+<p align ="center">
 <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" /> 
   <img src="https://img.shields.io/badge/-DeepSeek-4285F4?style=flat-square" /></p>
 
-a three-agent content pipeline for Fieldstone Media travel posts — a Researcher gathers cited sources, a Writer drafts from that brief, and an Editor fact-checks the draft against it (allowing one revision before escalating to a human editor) — with no step in the code ever auto-publishing.
+A three-agent content pipeline for Fieldstone Media travel posts — a Researcher gathers cited sources, a Writer drafts from that brief, and an Editor fact-checks the draft against it (allowing one revision before escalating to a human editor) — with no step in the code ever auto-publishing.
 
 </td>
 </tr>
