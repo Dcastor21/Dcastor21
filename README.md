@@ -33,58 +33,50 @@ A production-focused AI Engineer building multi-agent systems, RAG pipelines, an
 ---
 
 ### 🚀 Featured Projects
-
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<p align="center"><b><a href="https://github.com/Dcastor21/agentdesk">AgentDesk</a></b></p>
+<p align="center"><b><a href="https://github.com/Dcastor21/EvalForge">EvalForge</a></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangGraph-1C1C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Step_Functions-E7157B?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Amazon_Bedrock-01A88D?style=flat-square" />
 </p>
-
-Multi-tenant LangGraph research platform featuring a 10-subagent software factory, MCP server integration, pgvector + RLS, Inngest event orchestration, Langfuse/Helicone observability, and Clerk JWT auth. Deployed on Render via Blueprint.
-
+Serverless LLM evaluation harness that runs every test case against several Bedrock models in parallel, grades each answer (exact, contains, regex, JSON, or an LLM judge), and builds a leaderboard of score, pass rate, p95 latency, and cost. Built on a Step Functions Distributed Map with Lambda, DynamoDB, and S3, so idle cost is near zero.
+ 
 </td>
 <td width="50%" valign="top">
-
 <p align="center"><b><a href="https://github.com/Dcastor21/ai_policy_copilot">AI Policy Copilot</a></b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/-FAISS-FF6B35?style=flat-square" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square" />
 </p>
-
 RAG-based document Q&A system that ingests PDF policy documents, generates vector embeddings, and returns citation-grounded answers via REST API in under 3 seconds. Deployed to Render + Vercel.
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 <p align="center"><b><a href="https://github.com/Dcastor21/mock_interview_prep">Prepwise: AI Interviewer</a></b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/-Vapi.ai-5B4FE7?style=flat-square" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square" />
 </p>
-
 Voice-powered interview prep platform built on Vapi AI voice agents. Simulates real interviews with dynamic follow-up questions, feedback, and session tracking.
-
+ 
 </td>
 <td width="50%" valign="top">
-
-<p align="center"><b><a href="https://github.com/Dcastor21/hitl-approval-agent"> Multi Agent Healthcare Agent</a></b></p>
+<p align="center"><b><a href="https://github.com/Dcastor21/CI-Medic">CI Medic</a></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangGraph-1C1C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square" />
 </p>
-
-Multi-agent AI system for automated, guardrail-enforced healthcare appointment scheduling
-
+GitHub Action that reads a failed CI run, fingerprints each test failure, and classifies it as flaky, likely-real, or unknown with the evidence behind it, then posts one diagnosis comment on the PR. An optional LLM explains failures in plain language but never decides the verdict. *Early development.*
+ 
 </td>
 </tr>
 <tr>
@@ -99,19 +91,24 @@ Multi-agent AI system for automated, guardrail-enforced healthcare appointment s
 RAG-powered job application copilot using LangChain, Pinecone, FastAPI, and Next.js. Features multi-provider LLM routing via OpenRouter/Helicone, Inngest workflows, Upstash Redis caching, and LaunchDarkly feature flags.
 </td>
   -->
-
-
-
-
 <td width="50%" valign="top">
-
 <p align="center"><b><a href="https://github.com/Dcastor21/Content-Production-Agent">Content Production Agent</a></b></p>
-<p align ="center">
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/-DeepSeek-4285F4?style=flat-square" /></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DeepSeek-4285F4?style=flat-square" />
+</p>
 A three-agent content pipeline for Fieldstone Media travel posts — a Researcher gathers cited sources, a Writer drafts from that brief, and an Editor fact-checks the draft against it (allowing one revision before escalating to a human editor) — with no step in the code ever auto-publishing.
-
+ 
+</td>
+<td width="50%" valign="top">
+<p align="center"><b><a href="https://github.com/Dcastor21/software-factory">Software Factory</a></b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square" />
+</p>
+Human-in-the-loop software factory: AI agents take a GitHub issue spec through code, tests, dependency and eval gates, and AI review, while people approve the spec and every merge. Agents run with least-privilege permissions and treat issue text as untrusted input. *In progress.*
+ 
 </td>
 </tr>
 </table>
