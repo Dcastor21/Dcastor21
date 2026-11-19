@@ -101,7 +101,7 @@ A three-agent content pipeline for Fieldstone Media travel posts — a Researche
  
 </td>
 <td width="50%" valign="top">
-<p align="center"><b><a href="https://github.com/Dcastor21/software-factory">Software Factory</a></b></p>
+<p align="center"><b><a href="https://github.com/Dcastor21/spec2ship">Software Factory</a></b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square" />
